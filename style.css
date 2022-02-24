@@ -138,4 +138,8 @@ body {
   #menu li {
     display: block;
   }
+  #busqueda {
+    float: none;
+    border-left: none !important;
+  }
 }
